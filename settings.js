@@ -21,23 +21,23 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = process.env.OWNERNUMBER|| ['94775792013']
-global.premium = ['94775792013']
-global.ownernomer = '94775792013'
-global.ownername = process.env.OWNERNAME|| '⛧ S A T H A N ⸸ '
-global.botname = process.env.BOTNAME|| '⛧ S A T H A N ⸸ '
-global.footer = process.env.WATERMARK|| '⛧ S A T H A N ⸸ '
+global.owner = process.env.OWNERNUMBER|| ['94752521338']
+global.premium = ['94752521338']
+global.ownernomer = '94752521338'
+global.ownername = process.env.OWNERNAME|| 'ꪶꫂ𝔸ℂℍ𝕀ℕ𝕋ℍ𝔸ꪶꫂ ࿐ '
+global.botname = process.env.BOTNAME|| '⛧𝙰𝙲𝙷𝙸𝚈𝙰 ᵇᵒᵗ☞'
+global.footer = process.env.WATERMARK|| '❦𝘼𝘾𝙃𝙄𝙉𝙏𝙃𝘼❦ '
 global.ig = process.env.IG|| 'https://github.com/oshadaXD'
 global.region = 'sri lanka, western province, gampaha'
 global.sc = 'https://github.com/'
 global.myweb = 'oshada.ga'
 global.group = process.env.GROUP|| 'https://chat.whatsapp.com/IM3kisqn93y5ulAwobJUaC'
-global.packname = 'Sticker'
-global.reactmoji = "😘" //ur menu react emoji
-global.author = process.env.AUTHER|| '⛧ S A T H A N ⸸ '
+global.packname = 'ꪶꫂ𝔸ℂℍ𝕀ℕ𝕋ℍ𝔸ꪶꫂ ࿐'
+global.reactmoji = "*𖣔፝͜͡☞" //ur menu react emoji
+global.author = process.env.AUTHER|| '🧚‍♂️𝘼𝘾𝙃𝙄𝙉𝙏𝙃𝘼🧚‍♂️ '
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '⭔'
+global.prefa = ['','!','.','🧚‍♂️','🎭','❄']
+global.sp = '❦☞'
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
